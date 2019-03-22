@@ -10,9 +10,11 @@ To run the project, you will need NPM or Yarn installed. To clone the project, y
 
 To start the project, make sure you are inside the project's root folder and then simply run:
 
+### `npm i --save`
+
 ### `npm start`
 
-Alternatively, you can run both scripts:
+Alternatively, instead of `npm start`, you can run both scripts:
 
 ### `npm react-scripts start`
 
