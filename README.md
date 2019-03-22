@@ -12,13 +12,13 @@ To start the project, make sure you are inside the project's root folder and the
 
 ### `npm i --save`
 
-### `npm start`
+### `npm run start`
 
 Alternatively, instead of `npm start`, you can run both scripts:
 
-### `npm react-scripts start`
+### `npm run client`
 
-### `node api-server/server.js`
+### `npm run api-server`
 
 When finished, the browser should open. Just in case it doesn't, click here or copy and paste it in your favorite browser: [http://localhost:3000](http://localhost:3000).
 
